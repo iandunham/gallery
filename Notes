@@ -1,0 +1,4 @@
+To make the thumbnails 
+
+wkhtmltopdf Rheumatoid_arthritis.snps.erc.dchart.html Rheumatoid_arthritis.pdf
+convert Rheumatoid_arthritis.pdf Rheumatoid_arthritis.png

@@ -1,2 +1,4 @@
-title,url,author,phenotype,visualizationType,class,thumbnail
-Pulmonary Function,http://rcharts.io/viewer/?6916420,Ian Dunham,Pulmonary Function,Forge,Lung,Pulmonary_function.png
+title,url,author,phenotype,visualizationType,data,class,thumbnail
+Pulmonary Function on Roadmap Epigenome data,http://rcharts.io/viewer/?6916420,Ian Dunham,Pulmonary Function,Forge,Roadmap,Lung,thumbnails/Pulmonary_function_erc.png
+Rheumatoid Arthritis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6919908,Ian Dunham,Rheumatoid Arthritis,Forge,Roadmap,Autoimmune,thumbnails/Rheumatoid_arthritis_erc.png
+Rheumatoid Arthritis on Roadmap ENCODE data,http://rcharts.github.io/viewer/?6919934,Ian Dunham,Rheumatoid Arthritis,Forge,Roadmap,Autoimmune,thumbnails/Rheumatoid_arthritis_encode.png

@@ -1,12 +1,6 @@
 # Gallery
 
-This is a gallery of [Forge] analyses, an R package that helps create interactive charts using multiple javascript libraries. You can filter the gallery to search by author, library, visualization type and so on. You can also share the url to a filtered result gallery. For example, if you want to share all visualizations done by me, you can just share this url : [http://ramnathv.github.io/rChartsGallery/#author=Ramnath Vaidyanathan](http://ramnathv.github.io/rChartsGallery/#author=Ramnath Vaidyanathan).
-
-This gallery is using a [Google Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AovoNzJt5GetdEhQVDgyYXpJMnZ2M2J2YmtvX0I5Snc#gid=0) for storing data. It makes it easier to keep the gallery updated with the latest examples and have everything in one place.
-
-# How to Contribute
-
-You can share your work with me and I can add it to the official gallery.  I will be putting together a Google Form that you can use to submit your entries directly. Every entry will need a title, a url, link to a screenshot and a minimum set of tags.
+This is a gallery of [Forge](https://github.com/iandunham/Forge) analyses of sets of SNPs for inidivdual phenotypes in the [GWAS catalog](http://www.genome.gov/gwastudies) . You can filter the gallery to search by ...... You can also share the url to a filtered result gallery.
 
 # Credits
 

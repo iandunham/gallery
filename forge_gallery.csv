@@ -1,5 +1,15 @@
 title,url,author,phenotype,visualizationType,data,class,thumbnail
 Pulmonary Function on Roadmap Epigenome data,http://rcharts.io/viewer/?6916420,Ian Dunham,Pulmonary Function,Forge,Roadmap,Lung,thumbnails/Pulmonary_function_erc.png
-Pulmonary Function on Roadmap ENCODE data,http://rcharts.github.io/viewer/?6921185,Ian Dunham,Pulmonary Function,Forge,ENCODE,Lung,thumbnails/Pulmonary_function_encode.png
+Pulmonary Function on ENCODE data,http://rcharts.github.io/viewer/?6921185,Ian Dunham,Pulmonary Function,Forge,ENCODE,Lung,thumbnails/Pulmonary_function_encode.png
 Rheumatoid Arthritis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6919908,Ian Dunham,Rheumatoid Arthritis,Forge,Roadmap,Autoimmune,thumbnails/Rheumatoid_arthritis_erc.png
-Rheumatoid Arthritis on Roadmap ENCODE data,http://rcharts.github.io/viewer/?6919934,Ian Dunham,Rheumatoid Arthritis,Forge,ENCODE,Autoimmune,thumbnails/Rheumatoid_arthritis_encode.png
+Rheumatoid Arthritis on ENCODE data,http://rcharts.github.io/viewer/?6919934,Ian Dunham,Rheumatoid Arthritis,Forge,ENCODE,Autoimmune,thumbnails/Rheumatoid_arthritis_encode.png
+SLE on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6921559,Ian Dunham,Systemic lupus erythematosus,Forge,Roadmap,Autoimmune,thumbnails/SLE_erc.png
+SLE on ENCODE data,http://rcharts.github.io/viewer/?6921548,Ian Dunham,Systemic lupus erythematosus,Forge,ENCODE,Autoimmune,thumbnails/SLE_encode.png
+Celiac_disease on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6921599,Ian Dunham,Celiac disease,Forge,Roadmap,Autoimmune,thumbnails/Celiac_disease_erc.png
+Celiac_disease on ENCODE data,http://rcharts.github.io/viewer/?6921580,Ian Dunham,Celiac disease,Forge,ENCODE,Autoimmune,thumbnails/Celiac_disease_encode.png
+Multiple sclerosis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6921640,Ian Dunham,Multiple sclerosis,Forge,Roadmap,Autoimmune,thumbnails/MS_erc.png
+Multiple sclerosis on ENCODE data,http://rcharts.github.io/viewer/?6921619,Ian Dunham,Multiple sclerosis,Forge,ENCODE,Autoimmune,thumbnails/MS_encode.png
+Ankylosing spondylitis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6921680,Ian Dunham,Ankylosing spondylitis,Forge,Roadmap,Autoimmune,thumbnails/AS_erc.png
+Ankylosing spondylitis on ENCODE data,http://rcharts.github.io/viewer/?6921664,Ian Dunham,Ankylosing spondylitis,Forge,ENCODE,Autoimmune,thumbnails/AS_encode.png
+Type 1 diabetes on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6921789,Ian Dunham,Type 1 diabetes,Forge,Roadmap,Autoimmune,thumbnails/Type_1_erc.png
+Type 1 diabetes on ENCODE data,http://rcharts.github.io/viewer/?6921694,Ian Dunham,Type 1 diabetes,Forge,ENCODE,Autoimmune,thumbnails/Type_1_encode.png

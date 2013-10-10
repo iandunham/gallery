@@ -21,7 +21,7 @@
 
 <p>This is a gallery of examples, tutorials and applications that make use of <a href="http://github.com/ramnathv/rCharts">rCharts</a>, an R package that helps create interactive charts using multiple javascript libraries. You can filter the gallery to search by author, library, visualization type and so on. You can also share the url to a filtered result gallery. For example, if you want to share all visualizations done by me, you can just share this url : <a href="http://rcharts.github.io/gallery/#author=Ramnath Vaidyanathan">http://rcharts.github.io/gallery/#author=Ramnath Vaidyanathan</a>.</p>
 
-<p>This gallery is using a <a href="https://docs.google.com/a/ebi.ac.uk/spreadsheet/ccc?key=0AsSb-PdYxQbSdDhETjVhSEw3blo1WV9YUXA5bl9Kc3c#gid=0">Google Spreadsheet</a> for storing data. It makes it easier to keep the gallery updated with the latest examples and have everything in one place.</p>
+<p>This gallery is using a <a href="https://docs.google.com/spreadsheet/ccc?key=0AovoNzJt5GetdEhQVDgyYXpJMnZ2M2J2YmtvX0I5Snc#gid=0">Google Spreadsheet</a> for storing data. It makes it easier to keep the gallery updated with the latest examples and have everything in one place.</p>
 
 <h1>How to Contribute</h1>
 
@@ -32,6 +32,8 @@
 <h1>Credits</h1>
 
 <p>This gallery uses the same codebase as the <a href="http://biovisualize.github.com/d3visualization">d3js gallery</a>, developed by Christophe Viau <a href="https://twitter.com/d3visualization">@d3visualization</a>, with the help of the community and support from <a href="http://www.datameer.com">Datameer</a>. and <a href="https://twitter.com/mrejfox">@mrejfox</a>. I would like to thank Christophe Viau for kindly letting me use it.</p>
+
+<p>Every entry in this gallery is copyrighted by its author. If you want your work to be removed, a special copyright mention to be added or credit information changed, just <a href="https://github.com/rcharts/gallery/issues">file a request</a> and we will answer your request promptly, as we strongly feel open-source is about respect for the creators.</p>
 
 </div>
 <div class="gallery">
@@ -81,7 +83,8 @@
     var numInOneScreen = Math.floor(menu3Width / 220) * Math.ceil(document.height / 250); // menu3 li width
     var numInView = numInOneScreen;
 
-    d3.csv('d3gallery_feb282013.csv', function(error, _json){
+    d3.csv('https://docs.google.com/spreadsheet/pub?key=0AovoNzJt5GetdEhQVDgyYXpJMnZ2M2J2YmtvX0I5Snc&output=csv', function(error, _json){
+//    d3.csv('d3gallery_feb282013.csv', function(error, _json){
         json = _json;
         buildList(dataTransformMenu1(), '.menu1-container', data1);
         buildList(dataTransformMenu2('visualizationType'), '.menu2-container', data2);
@@ -91,7 +94,8 @@
 
     function dataTransformMenu1(){
         //TODO: change in spreadsheet
-        var dimensionsMap = {author: 'Author', group: 'Study Group', study: 'Title', url: 'URL', thumbnail: 'Thumbnail'};
+        var dimensionsMap = {author: 'Author', documentType: 'Format', sourceName:
+                'Source', visualizationType: 'Visualization', technology: 'Tag', title: 'Title', url: 'URL'};
         return d3.keys(dimensionsMap).map(function(d, i){return {dimension: d, displayName: dimensionsMap[d]};});
     }
 

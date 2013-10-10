@@ -21,7 +21,7 @@
 
 <p>This is a gallery of examples, tutorials and applications that make use of <a href="http://github.com/ramnathv/rCharts">rCharts</a>, an R package that helps create interactive charts using multiple javascript libraries. You can filter the gallery to search by author, library, visualization type and so on. You can also share the url to a filtered result gallery. For example, if you want to share all visualizations done by me, you can just share this url : <a href="http://rcharts.github.io/gallery/#author=Ramnath Vaidyanathan">http://rcharts.github.io/gallery/#author=Ramnath Vaidyanathan</a>.</p>
 
-<p>This gallery is using a <a href="https://docs.google.com/spreadsheet/ccc?key=0AovoNzJt5GetdEhQVDgyYXpJMnZ2M2J2YmtvX0I5Snc#gid=0">Google Spreadsheet</a> for storing data. It makes it easier to keep the gallery updated with the latest examples and have everything in one place.</p>
+<p>This gallery is using a <a href="https://docs.google.com/a/ebi.ac.uk/spreadsheet/ccc?key=0AsSb-PdYxQbSdDhETjVhSEw3blo1WV9YUXA5bl9Kc3c#gid=0">Google Spreadsheet</a> for storing data. It makes it easier to keep the gallery updated with the latest examples and have everything in one place.</p>
 
 <h1>How to Contribute</h1>
 
@@ -83,7 +83,7 @@
     var numInOneScreen = Math.floor(menu3Width / 220) * Math.ceil(document.height / 250); // menu3 li width
     var numInView = numInOneScreen;
 
-    d3.csv('https://docs.google.com/spreadsheet/pub?key=0AovoNzJt5GetdEhQVDgyYXpJMnZ2M2J2YmtvX0I5Snc&output=csv', function(error, _json){
+    d3.csv('https://docs.google.com/a/ebi.ac.uk/spreadsheet/ccc?key=0AsSb-PdYxQbSdDhETjVhSEw3blo1WV9YUXA5bl9Kc3c#gid=0&output=csv', function(error, _json){
 //    d3.csv('d3gallery_feb282013.csv', function(error, _json){
         json = _json;
         buildList(dataTransformMenu1(), '.menu1-container', data1);
@@ -95,7 +95,7 @@
     function dataTransformMenu1(){
         //TODO: change in spreadsheet
         var dimensionsMap = {author: 'Author', documentType: 'Format', sourceName:
-                'Source', visualizationType: 'Visualization', technology: 'Tag', title: 'Title', url: 'URL'};
+                'Source', group: 'Visualization', technology: 'Tag', study: 'Title', url: 'URL'};
         return d3.keys(dimensionsMap).map(function(d, i){return {dimension: d, displayName: dimensionsMap[d]};});
     }
 

@@ -87,7 +87,7 @@
     function dataTransformMenu1(){
         //TODO: change in spreadsheet
         var dimensionsMap = {author: 'Author', phenotype:
-                'Phenotype', class: 'Category' };
+                'Phenotype', data:  'Data', class: 'Category' };
         return d3.keys(dimensionsMap).map(function(d, i){return {dimension: d, displayName: dimensionsMap[d]};});
     }
 

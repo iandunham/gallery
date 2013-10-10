@@ -87,7 +87,7 @@
     function dataTransformMenu1(){
         //TODO: change in spreadsheet
         var dimensionsMap = {author: 'Author', documentType: 'Format', sourceName:
-                'Source', visualizationType: 'Visualization', technology: 'Tag', title: 'Title', url: 'URL'};
+                'Source', visualizationType: 'Visualization', group: 'Group', title: 'Title', };
         return d3.keys(dimensionsMap).map(function(d, i){return {dimension: d, displayName: dimensionsMap[d]};});
     }
 

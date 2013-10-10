@@ -1,2 +1,3 @@
-study,url,author,group,thumbnail
-Pulmonary function,http://rcharts.io/viewer/?6916420,Ian Dunham,Lung,NA
+title,url,author,documentType,sourceName,visualizationType,technology,thumbnail,date
+Pulmonary Function,http://rcharts.io/viewer/?6916420,,,,,,,
+Linked Jazz network graph,http://linkedjazz.org/network/,Matt Miller,,,network,,,

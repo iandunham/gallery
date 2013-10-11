@@ -1,5 +1,5 @@
 title,url,author,phenotype,visualizationType,data,class,thumbnail
-All GWAS SNPs on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6934993,Ian Dunham,All GWAS,Forge,Roadmap,All,thumbnails/
+All GWAS SNPs on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6934993,Ian Dunham,All GWAS,Forge,Roadmap,All,thumbnails/AS_erc.png
 Ankylosing spondylitis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935021,Ian Dunham,Ankylosing spondylitis,Forge,Roadmap,Autoimmune,thumbnails/AS_erc.png
 Ankylosing spondylitis on ENCODE data,http://rcharts.github.io/viewer/?6935018,Ian Dunham,Ankylosing spondylitis,Forge,ENCODE,Autoimmune,thumbnails/AS_encode.png
 Atrial_fibrillation on ENCODE data,http://rcharts.github.io/viewer/?6935022,Ian Dunham,Atrial_fibrillation,Forge,ENCODE,Heart,thumbnails/
@@ -64,7 +64,3 @@ Ulcerative colitis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?69
 Urate levels on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935599,Ian Dunham,Urate levels,Forge,Roadmap,Metabolites,thumbnails/
 Urate levels on ENCODE data,http://rcharts.github.io/viewer/?6935597,Ian Dunham,Urate Levels,Forge,ENCODE,Metabolites,thumbnails/
 Ventricular conduction on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935602,Ian Dunham,Venticular Conduction,Forge,Roadmap,Heart,thumbnails/
-
-
-
-

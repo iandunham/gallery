@@ -5,7 +5,7 @@ Ankylosing spondylitis on Roadmap Epigenome data,http://rcharts.github.io/viewer
 Ankylosing spondylitis on ENCODE data,http://rcharts.github.io/viewer/?6935018,Ian Dunham,Ankylosing spondylitis,Forge,ENCODE,Autoimmune,thumbnails/AS_encode.png
 Atrial_fibrillation on ENCODE data,http://rcharts.github.io/viewer/?6935022,Ian Dunham,Atrial_fibrillation,Forge,ENCODE,Heart,thumbnails/Atrial_encode.png
 Atrial_fibrillation on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935047,Ian Dunham,Atrial_fibrillation,Forge,Roadmap,Heart,thumbnails/Atrial_erc.png
-Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia combined on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935080,Ian Dunham,Combined Psyciatric,Forge,Roadmap,Psychiatric,thumbnails/Autism.png
+Autism spectrum disorder; attention deficit-hyperactivity disorder; bipolar disorder; major depressive disorder; and schizophrenia combined on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935080,Ian Dunham,Combined Psychiatric,Forge,Roadmap,Psychiatric,thumbnails/Autism.png
 Bipolar disorder on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935082,Ian Dunham,Bipolar Disorder,Forge,Roadmap,Psychiatric,thumbnails/Bipolar.png
 Blood pressure on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935084,Ian Dunham,Blood pressure,Forge,Roadmap,Hypertension,thumbnails/BP.png
 Breast cancer on ENCODE data,http://rcharts.github.io/viewer/?6935527,Ian Dunham,Breast cancer,Forge,ENCODE,Cancer,thumbnails/Breast_encode.png
@@ -63,5 +63,5 @@ Type 1 diabetes autoantibodies on Roadmap Epigenome data,http://rcharts.github.i
 Ulcerative colitis on ENCODE data,http://rcharts.github.io/viewer/?6935594,Ian Dunham,Ulcerative colitis,Forge,ENCODE,Autoimmune,thumbnails/UC_encode.png
 Ulcerative colitis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935596,Ian Dunham,Ulcerative colitis,Forge,Roadmap,Autoimmune,thumbnails/UC_erc.png
 Urate levels on ENCODE data,http://rcharts.github.io/viewer/?6935597,Ian Dunham,Urate Levels,Forge,ENCODE,Metabolites,thumbnails/UL_encode.png
-Urate levels on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935599,Ian Dunham,Urate levels,Forge,Roadmap,Metabolites,thumbnails/UL_erc.pdf
+Urate levels on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935599,Ian Dunham,Urate levels,Forge,Roadmap,Metabolites,thumbnails/UL_erc.png
 Ventricular conduction on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935602,Ian Dunham,Venticular Conduction,Forge,Roadmap,Heart,thumbnails/VC_erc.png

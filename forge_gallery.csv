@@ -1,4 +1,4 @@
-title,url,author,phenotype,visualizationType,data,class,thumbnail
+title,url,author,phenotype,method,data,class,thumbnail
 All GWAS SNPs on ENCODE data,http://rcharts.github.io/viewer/?6934993,Ian Dunham,All GWAS,Forge,ENCODE,All,thumbnails/All_encode.png
 All GWAS SNPs on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6937075,Ian Dunham,All GWAS,Forge,Roadmap,All,thumbnails/All_erc.png
 Ankylosing spondylitis on Roadmap Epigenome data,http://rcharts.github.io/viewer/?6935021,Ian Dunham,Ankylosing spondylitis,Forge,Roadmap,Autoimmune,thumbnails/AS_erc.png

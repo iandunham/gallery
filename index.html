@@ -95,7 +95,7 @@ Datameer</a>. and <a href="https://twitter.com/mrejfox">@mrejfox</a>. I would li
     d3.csv('forge_gallery.csv', function(error, _json){
         json = _json;
         buildList(dataTransformMenu1(), '.menu1-container', data1);
-        buildList(dataTransformMenu2('visualizationType'), '.menu2-container', data2);
+        buildList(dataTransformMenu2('method'), '.menu2-container', data2);
 //        buildList(dataView(dataTransformMenu3('title', 'all'), numInView), '.menu3-container', data3);
         processLocationHash();
     });
@@ -185,7 +185,7 @@ Datameer</a>. and <a href="https://twitter.com/mrejfox">@mrejfox</a>. I would li
         });
 
     function filterList(value){
-        var dimension = window.location.hash.substring(1).split('=')[0] || 'visualizationType';
+        var dimension = window.location.hash.substring(1).split('=')[0] || 'method';
         buildList(dataTransformMenu2(dimension, value), '.menu2-container', data2);
     }
 

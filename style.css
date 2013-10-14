@@ -24,7 +24,7 @@ body {
     margin-top: 4px;
 }
 .menu1-container {
-    height: 140px;
+    height: 160px;
     z-index: 9;
     width: 100%;
     padding: 4px 12px;
@@ -39,7 +39,7 @@ body {
 }
 .menu2-container {
     padding: 12px;
-    margin-top: 210px;
+    margin-top: 160px;
     text-transform:capitalize;
 }
 .menu2-search{

@@ -1,6 +1,19 @@
 # Gallery
 
-This is a gallery of [Forge](https://github.com/iandunham/Forge) analyses of sets of SNPs for inidivdual phenotypes in the [GWAS catalog](http://www.genome.gov/gwastudies) . You can filter the gallery to search by ...... You can also share the url to a filtered result gallery.
+This is a gallery of [Forge](https://github.com/iandunham/Forge) analyses of sets of SNPs for inidivdual
+phenotypes in the [GWAS catalog](http://www.genome.gov/gwastudies) downloaded on 7th August 2013. Click on a
+thumbnail to see the full interactive chart of a FORGE analysis of GWAS SNPs for an individual phenotype.
+You can filter the gallery by Author (all me at the moment), Phenotype, Data (ENCODE or Epigenome) and Catagory (groupings of phenotypes)
+using the filters at the right.  The filter box will also restrict by any text you enter. You can also
+share the url to a filtered result gallery.
+
+For more information on the FORGE analysis see the [documentation page](http://www.1000genomes.org/node/959) and
+the [Forge github pages](https://github.com/iandunham/gallery/).
+
+This gallery uses a csv file to store data : [forge_gallery.csv](https://github.com/iandunham/gallery/blob/gh-pages/forge_gallery.csv)
+in the github repository.
+
+Contact: Ian Dunham <dunham@ebi.ac.uk>
 
 # Credits
 
